@@ -1,15 +1,8 @@
 ### Usage
 
-build the bindary
-
+To Run with live reload and a postgres database image
 ```
-    docker compose build
-```
-
-run
-
-```
-docker compose up
+docker compose build && docker compose up
 ```
 
 Example seed data
